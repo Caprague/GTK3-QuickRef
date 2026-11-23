@@ -2,6 +2,8 @@
 
 基于 C++17、GTK3 和 cmark-gfm 的本地快捷操作查看器。
 
+![GTK3-QuickRef 界面截图](docs/images/gtk3-quickref-screenshot.png)
+
 项目位置：
 
 ```text
