@@ -4,11 +4,7 @@
 
 ![GTK3-QuickRef 界面截图](docs/images/gtk3-quickref-screenshot.png)
 
-项目位置：
-
-```text
-/home/robot/ThirdPartyLibs/gtk-quickref
-```
+以下构建与安装命令均从仓库根目录执行。
 
 ## 功能
 
@@ -76,7 +72,6 @@ style.css
 ## 编译
 
 ```bash
-cd /home/robot/ThirdPartyLibs/gtk-quickref
 ./build.sh
 ```
 
@@ -89,7 +84,6 @@ build/gtk-quickref
 ## 安装
 
 ```bash
-cd /home/robot/ThirdPartyLibs/gtk-quickref
 ./install.sh
 ```
 
