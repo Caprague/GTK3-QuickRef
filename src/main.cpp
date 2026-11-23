@@ -1508,7 +1508,7 @@ void show_opacity_status(AppState* state)
     const int percentage =
         static_cast<int>(std::lround(state->background_opacity * 100.0));
     const std::string status =
-        "透明度 " + std::to_string(percentage) + "%";
+        "不透明度 " + std::to_string(percentage) + "%";
     gtk_label_set_text(GTK_LABEL(state->document_count), status.c_str());
 
     if (state->opacity_status_source != 0) {

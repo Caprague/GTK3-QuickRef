@@ -17,7 +17,7 @@
 - 多参数命令提供参数速查表和默认参数省略提示
 - 程序只复制命令，不执行命令
 - 半透明窗口、圆角和聚焦边框
-- 默认透明度 `0.70`
+- 默认不透明度 `0.70`
 
 ## 快捷键
 
@@ -28,7 +28,7 @@
 | 切换标签页 | `Alt+↑/↓` |
 | 直达标签页 | `Alt+1…9` |
 | 浏览内容 | `↑/↓`、`PageUp/PageDown`、`j/k`、`d/u`、`g/G` |
-| 调整透明度 | `Ctrl+Shift+A,  ↑/↓` |
+| 调整不透明度 | `Ctrl+Shift+A,  ↑/↓` |
 | 切换窗口置顶 | `Alt+P` |
 | 重新扫描文档 | `F5 / Ctrl+R` |
 | 关闭 | `Esc / Ctrl+W` |
@@ -49,7 +49,7 @@ Markdown 文档应遵守：
 
 | 文件 | 用途 |
 |---|---|
-| `~/.config/gtk-quickref/settings.conf` | 默认透明度和调整步长 |
+| `~/.config/gtk-quickref/settings.conf` | 默认不透明度和调整步长 |
 | `~/.config/gtk-quickref/style.css` | 窗口与 Markdown 控件样式 |
 
 项目内默认文件：
