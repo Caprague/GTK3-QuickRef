@@ -1,0 +1,15 @@
+主题名称
+
+组合按键
+  Ctrl+Key                  功能
+  Ctrl+Key,  Key            功能
+
+常用指令
+
+  常用参数
+    -x                         参数作用
+    -y                         参数作用
+
+  示例指令                     功能
+  command --with-arguments     指令功能
+  command --option value       指令功能

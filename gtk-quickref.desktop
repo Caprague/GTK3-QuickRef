@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=快捷操作提示
+Comment=显示由文本文件生成的快捷键与操作手册
+Exec=gtk-quickref
+Icon=dialog-information
+Terminal=false
+Categories=Utility;Documentation;
+NoDisplay=true

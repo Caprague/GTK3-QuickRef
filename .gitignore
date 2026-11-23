@@ -1,0 +1,54 @@
+# Project-local dependency cache
+/.deps/
+
+# CMake build trees and generated metadata
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+DartConfiguration.tcl
+compile_commands.json
+build.ninja
+.ninja_deps
+.ninja_log
+
+# Compiler, linker and profiling outputs
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.d
+*.dep
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+*.ilk
+*.pdb
+
+# Downloaded packages and local caches
+*.deb
+.cache/
+.ccache/
+.sccache/
+.clangd/
+
+# Editor and operating-system metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local logs
+*.log
